@@ -1,7 +1,6 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  reactStrictMode: true,
-  swcMinify: true,
+module.exports = {
+  // https://nextjs.org/docs/advanced-features/output-file-tracing#automatically-copying-traced-files
+  output: 'standalone',
+  // swcMinify: false,
 }
-
-module.exports = nextConfig
