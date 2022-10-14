@@ -1,9 +1,5 @@
 This is a Next.js project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Disclaimer
-
-Naming `with-docker-multi-env` is wrong. It is not anymore multienv. We keep it simple for demo.
-
 To start development server:
 
 ```bash
